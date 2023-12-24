@@ -9,5 +9,7 @@ Then you can run the code with the:
 
 -dotnet run
 
-command.
+command. You can find the frontend code in "frontend" branch. And you can watch our demo video in this address:
+
+https://www.youtube.com/watch?v=OVj-B_VVIss
 
