@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BudgiesAPI.props" />
+</Project>
