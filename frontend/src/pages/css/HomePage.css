@@ -1,0 +1,19 @@
+/* Define the animation keyframes */
+@keyframes fade-in {
+    from {
+      filter: blur(10px);
+      opacity: 0;
+      transform: translateX(-10%);
+    }
+    to {
+      filter: blur(0);
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  /* Apply the animation to the image element */
+  .animation-fade-in {
+    animation: fade-in 2s ease-in-out;
+  }
+  
